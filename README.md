@@ -1,3 +1,5 @@
+🪧 Demo :-  https://akshaymealapp.netlify.app
+
 ---
 About the Project :-
 
@@ -8,6 +10,8 @@ About the Project :-
 🔴 The most important thing about this project it is fully responsive of nature and use an api called the themealdb to fetch all the dishes.
 
 🔴 It also redirects users to a youtube videos for the recipe of dishes.
+
+
 ---
 
 📐 Installation :-
