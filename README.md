@@ -1,4 +1,5 @@
 🪧 Demo :-  https://akshaymealapp.netlify.app
+🪧 Demo :-  https://akshay0326.github.io/Meal-App-Find-Your-Meal/
 
 ---
 About the Project :-
